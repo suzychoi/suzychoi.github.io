@@ -15,7 +15,6 @@ cabbage
 canned tomato
 carrot
 cauliflower
-cauliflower
 celery
 chard
 chayote
@@ -23,9 +22,7 @@ chili pepper
 chinese broccoli
 cilantro
 collard
-corn
 cress
-cucumber
 cucumber
 daikon
 eggplant
@@ -68,7 +65,6 @@ spinach
 squash
 sun dried tomato
 sweet potato
-sweet potato
 tomatillo
 tomato
 tomato paste
@@ -109,13 +105,11 @@ beef gravy
 black beans
 chicken broth
 chicken gravy
-chicken gravy
 cocktail sauce
 duck sauce
 fish stock
 hoisin sauce
 hot sauce
-miso
 mushroom gravy
 mushroom soup
 onion gravy
@@ -131,7 +125,6 @@ turkey gravy
 vegetable soup
 vegetable stock
 wasabi
-almond
 almond
 almond paste
 cashew
@@ -158,7 +151,6 @@ canadian bacon
 chicken
 chicken breast
 chicken leg
-chicken tenders
 chicken thighs
 chicken wings
 chorizo
@@ -217,9 +209,7 @@ venison
 wild boar
 barley
 brown rice
-brown rice
 corn
-corn flour
 corn flour
 cornmeal
 cornstarch
@@ -227,7 +217,6 @@ couscous
 flour
 noodle
 pasta
-quinoa
 quinoa
 rice
 rice flour
@@ -267,9 +256,7 @@ mandarin
 mango
 nectarine
 olive
-olive
 orange
-orange juice
 orange juice
 papaya
 passion fruit
@@ -277,11 +264,9 @@ peach
 pear
 persimmon
 pineapple
-pineapple
 plantain
 plum
 pomegranate
-prune
 prune
 quince
 raisin
@@ -298,7 +283,6 @@ canned salmon
 canned tuna
 carp
 catfish
-catfish
 caviar
 clam
 cod
@@ -311,7 +295,6 @@ grouper
 haddock
 halibut
 herring
-herring
 lobster
 mackerel
 mahi mahi
@@ -322,14 +305,12 @@ oyster
 perch
 pike
 pollock
-pollock
 pompano
 prawn
 red snapper
 rockfish
 salmon
 sardines
-scallop
 scallop
 sea bass
 shrimp
@@ -367,7 +348,6 @@ chicken tenders
 almond milk
 cottage cheese
 egg
-goat cheese
 pepper jack
 ricotta
 american cheese
@@ -407,7 +387,6 @@ swiss cheese
 velveeta
 whipped cream
 yogurt
-rolled oats
 beer
 cabernet sauvignon
 chocolate syrup
@@ -423,7 +402,6 @@ sprite
 vodka
 whiskey
 white wine
-black beans
 chickpea
 edamame
 fava beans
@@ -431,7 +409,6 @@ great northern beans
 hummus
 kidney beans
 lentil
-lima beans
 miso
 navy beans
 peanut butter

@@ -67551,7 +67551,7 @@ vO:function(a){var s=0,r=P.ae(t.z),q=this,p,o,n,m
 var $async$vO=P.aa(function(b,c){if(b===1)return P.ab(c,r)
 while(true)switch(s){case 0:n=t.X
 s=2
-return P.au(G.aAh("https://bbg5tf4j2d.execute-api.us-east-1.amazonaws.com/DEV",a,P.K(["content-type","application/json"],n,n)),$async$vO)
+return P.au(G.aAh("https://bbg5tf4j2d.execute-api.us-east-1.amazonaws.com/DEV/ingredientstorecipes",a,P.K(["content-type","application/json"],n,n)),$async$vO)
 case 2:m=c
 n=m.e
 p=B.aif(U.ahL(n).c.a.h(0,"charset"))
